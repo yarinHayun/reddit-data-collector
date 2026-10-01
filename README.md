@@ -1,6 +1,6 @@
 # Reddit Data Collector
 
-A personal project for collecting and analyzing public Reddit posts and comments from a small set of selected subreddits.
+A project for collecting and analyzing public Reddit posts and comments from a small set of selected subreddits.
 
 The application runs as a read-only backend service and periodically retrieves public Reddit content for personal software development and analysis.
 
